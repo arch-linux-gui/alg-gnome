@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+	<wallpaper deleted="false">
+		<name>1</name>
+		<filename>/usr/share/backgrounds/gnome/Leaf.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>2</name>
+		<filename>/usr/share/backgrounds/gnome/ColdWarm.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+		<wallpaper deleted="false">
+		<name>3</name>
+		<filename>/usr/share/backgrounds/gnome/LightBulb.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>4</name>
+		<filename>/usr/share/backgrounds/gnome/DepthLava.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>5</name>
+		<filename>/usr/share/backgrounds/gnome/Lava.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>6</name>
+		<filename>/usr/share/backgrounds/gnome/IceCrystals.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>7</name>
+		<filename>/usr/share/backgrounds/gnome/adwaita-timed.xml</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>8</name>
+		<filename>/usr/share/backgrounds/gnome/Tree.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>9</name>
+		<filename>/usr/share/backgrounds/gnome/Loveles.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>10</name>
+		<filename>/usr/share/backgrounds/gnome/Symbolics-1.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>11</name>
+		<filename>/usr/share/backgrounds/gnome/VNC.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>12</name>
+		<filename>/usr/share/backgrounds/gnome/Wood.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>13</name>
+		<filename>/usr/share/backgrounds/gnome/wall.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+</wallpapers>
