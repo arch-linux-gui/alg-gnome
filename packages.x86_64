@@ -121,3 +121,12 @@ grub
 calamares
 alg-gnome-cala-config
 os-prober
+
+#Applications
+firefox
+vlc
+gnome-tweaks
+chrome-gnome-shell
+neofetch
+htop
+tela-circle-icon

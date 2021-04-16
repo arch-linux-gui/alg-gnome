@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.eog.desktop" score="1" last-seen="1618487810"/>
+    <application id="org.gnome.Nautilus.desktop" score="50" last-seen="1618498378"/>
+    <application id="org.gnome.Extensions.desktop" score="7" last-seen="1618487739"/>
+    <application id="firefox.desktop" score="102" last-seen="1618494897"/>
+    <application id="org.gnome.Terminal.desktop" score="401" last-seen="1618498364"/>
+    <application id="vlc.desktop" score="0" last-seen="1618487157"/>
+    <application id="org.gnome.gedit.desktop" score="26" last-seen="1618496570"/>
+    <application id="org.gnome.Calculator.desktop" score="0" last-seen="1618487098"/>
+    <application id="org.gnome.tweaks.desktop" score="24" last-seen="1618487738"/>
+    <application id="gnome-control-center.desktop" score="31" last-seen="1618487153"/>
+    <application id="org.gnome.Software.desktop" score="2" last-seen="1618486592"/>
+  </context>
+</application-state>
