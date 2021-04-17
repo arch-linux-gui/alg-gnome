@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox.desktop" score="23" last-seen="1618599888"/>
+    <application id="org.gnome.Nautilus.desktop" score="0" last-seen="1618599996"/>
+    <application id="org.gnome.Extensions.desktop" score="0" last-seen="1618600011"/>
+    <application id="gnome-control-center.desktop" score="29" last-seen="1618599803"/>
+    <application id="org.gnome.Terminal.desktop" score="40" last-seen="1618602443"/>
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1618599875"/>
+    <application id="org.gnome.tweaks.desktop" score="7" last-seen="1618600038"/>
+  </context>
+</application-state>
