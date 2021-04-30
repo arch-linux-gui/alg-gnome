@@ -109,7 +109,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI KDE GNOME
+#Arch Linux GUI GNOME
 gnome
 xorg
 gdm
@@ -130,3 +130,6 @@ chrome-gnome-shell
 neofetch
 htop
 tela-circle-icon
+libreoffice-fresh
+ttf-ms-fonts
+ttf-roboto
