@@ -130,6 +130,12 @@ chrome-gnome-shell
 neofetch
 htop
 tela-circle-icon
+
+#Office
 libreoffice-fresh
 ttf-ms-fonts
 ttf-roboto
+
+
+#AUR Helper
+paru
