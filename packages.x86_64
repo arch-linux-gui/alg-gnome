@@ -108,6 +108,7 @@ xorg
 gdm
 bash-completion
 networkmanager
+base-devel
 
 #Installer
 grub
@@ -128,7 +129,6 @@ tela-circle-icon
 libreoffice-fresh
 ttf-ms-fonts
 ttf-roboto
-
 
 #AUR Helper
 paru
