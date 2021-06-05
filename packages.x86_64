@@ -109,6 +109,7 @@ gdm
 bash-completion
 networkmanager
 base-devel
+pacman-contrib
 
 #Installer
 grub
