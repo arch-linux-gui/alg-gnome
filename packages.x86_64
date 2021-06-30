@@ -123,6 +123,8 @@ vlc
 gnome-tweaks
 chrome-gnome-shell
 neofetch
+archlinux-appstream-data-pamac
+gnome-software-packagekit-plugin
 tela-circle-icon
 
 #Office
