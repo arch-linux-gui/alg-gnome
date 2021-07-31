@@ -102,8 +102,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI GNOME
-gnome
+#Arch Linux GUI GNOME Core
 xorg
 gdm
 bash-completion
@@ -111,21 +110,35 @@ networkmanager
 base-devel
 pacman-contrib
 
+#Arch Linux GUI GNOME
+gnome
+alg-gnome-settings
+
 #Installer
 grub
 calamares
 alg-gnome-cala-config
 os-prober
 
-#Applications
+#browser
 firefox
+alg-firefox-settings-gnome
+
+#Applications
 vlc
 gnome-tweaks
 chrome-gnome-shell
 neofetch
 archlinux-appstream-data-pamac
 gnome-software-packagekit-plugin
+
+#Icons
 tela-circle-icon
+
+#Bluetooth
+bluez
+bluez-utils
+gnome-bluetooth
 
 #Office
 libreoffice-fresh
