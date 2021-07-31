@@ -122,7 +122,7 @@ os-prober
 
 #browser
 firefox
-alg-firefox-settings-gnome
+alg-firefox-settings
 
 #Applications
 vlc
