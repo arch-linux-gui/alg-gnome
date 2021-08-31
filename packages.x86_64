@@ -137,13 +137,13 @@ tela-circle-icon
 
 #Bluetooth
 bluez
-bluez-utils
 gnome-bluetooth
 
 #Office
 libreoffice-fresh
 ttf-ms-fonts
 ttf-roboto
+ttf-indic-otf
 
 #printing
 cups
