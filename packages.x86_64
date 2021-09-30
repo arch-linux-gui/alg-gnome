@@ -117,7 +117,7 @@ alg-gnome-settings
 #Installer
 grub
 calamares
-alg-gnome-cala-config
+alg-theme-cala-config
 os-prober
 
 #browser
@@ -127,7 +127,7 @@ alg-firefox-settings
 #Applications
 vlc
 gnome-tweaks
-chrome-gnome-shell
+#chrome-gnome-shell
 neofetch
 archlinux-appstream-data-pamac
 gnome-software-packagekit-plugin
@@ -150,3 +150,8 @@ cups
 
 #AUR Helper
 paru
+
+#NVIDIA Drivers & Tools
+nvidia
+nvidia-utils
+nvidia-settings
