@@ -106,6 +106,7 @@ xorg
 gdm
 bash-completion
 networkmanager
+xf86-input-libinput
 base-devel
 pacman-contrib
 
