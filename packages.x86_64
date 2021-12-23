@@ -112,6 +112,7 @@ pacman-contrib
 
 #Arch Linux GUI GNOME
 gnome
+gnome-tweaks
 alg-gnome-settings
 
 #Installer
@@ -126,21 +127,21 @@ alg-firefox-settings
 
 #Applications
 vlc
-gnome-tweaks
-#chrome-gnome-shell
 neofetch
-archlinux-appstream-data-pamac
 gnome-software-packagekit-plugin
 
-#Icons
+#Theming
 tela-circle-icon
+vimix-cursors
+orchis-theme-git
+archlinux-wallpaper
 
 #Bluetooth
 bluez
 gnome-bluetooth
 
 #Office
-libreoffice-fresh
+libreoffice-still
 ttf-ms-fonts
 ttf-roboto
 noto-fonts
