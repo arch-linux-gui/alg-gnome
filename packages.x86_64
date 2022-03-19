@@ -109,11 +109,14 @@ networkmanager
 xf86-input-libinput
 base-devel
 pacman-contrib
+virtualbox-guest-utils
 
 #Arch Linux GUI GNOME
 gnome
 gnome-tweaks
 alg-gnome-settings
+bluez-utils
+pulseaudio-bluetooth
 
 #Installer
 grub
