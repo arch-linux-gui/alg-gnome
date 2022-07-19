@@ -23,7 +23,6 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
-espeakup
 ethtool
 exfatprogs
 f2fs-tools
@@ -146,8 +145,8 @@ gnome-bluetooth
 #Office
 libreoffice-still
 ttf-ms-fonts
-ttf-roboto
 noto-fonts
+noto-fonts-cjk
 
 #printing
 cups
