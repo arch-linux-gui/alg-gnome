@@ -35,8 +35,6 @@ gptfdisk
 grml-zsh-config
 hdparm
 intel-ucode
-ipw2100-fw
-ipw2200-fw
 irssi
 iwd
 jfsutils
@@ -130,7 +128,7 @@ alg-firefox-settings
 #Applications
 vlc
 neofetch
-gnome-software-packagekit-plugin
+#gnome-software-packagekit-plugin
 
 #Theming
 tela-circle-icon
