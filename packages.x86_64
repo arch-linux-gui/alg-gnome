@@ -118,6 +118,7 @@ gnome-tweaks
 alg-gnome-settings
 bluez-utils
 pulseaudio-bluetooth
+gnome-browser-connector
 
 #Installer
 grub
