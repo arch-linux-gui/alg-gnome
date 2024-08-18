@@ -114,10 +114,13 @@ virtualbox-guest-utils
 
 #Arch Linux GUI GNOME
 gnome
+extra/mutter
 gnome-tweaks
 alg-gnome-settings
+alg-welcome
 bluez-utils
-pulseaudio-bluetooth
+pipewire-pulse
+#pulseaudio-bluetooth
 gnome-browser-connector
 
 #Installer
