@@ -148,8 +148,7 @@ archlinux-wallpaper
 bluez
 gnome-bluetooth
 
-#Office
-libreoffice-still
+# Fonts
 ttf-ms-fonts
 noto-fonts
 noto-fonts-cjk
