@@ -101,6 +101,7 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+lsb-release
 
 #ALG GNOME Core
 xorg
@@ -122,6 +123,7 @@ alg-gnome-settings
 alg-welcome
 alg-app-store
 alg-fastfetch-config
+alg-hooks
 
 bluez-utils
 pipewire-pulse
