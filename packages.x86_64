@@ -102,7 +102,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI GNOME Core
+#ALG GNOME Core
 xorg
 gdm
 bash-completion
@@ -112,12 +112,15 @@ base-devel
 pacman-contrib
 virtualbox-guest-utils
 
-#Arch Linux GUI GNOME
+#ALG GNOME
 gnome
 extra/mutter
 gnome-tweaks
 alg-gnome-settings
+
+#ALG Apps
 alg-welcome
+
 bluez-utils
 pipewire-pulse
 #pulseaudio-bluetooth
