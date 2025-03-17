@@ -120,6 +120,8 @@ alg-gnome-settings
 
 #ALG Apps
 alg-welcome
+alg-app-store
+alg-fastfetch-config
 
 bluez-utils
 pipewire-pulse
