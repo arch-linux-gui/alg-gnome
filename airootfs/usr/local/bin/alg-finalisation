@@ -13,5 +13,7 @@ rm -vf /root/{.automated_script.sh,.zlogin}
 sed -i 's/GRUB_DISTRIBUTOR=.*/GRUB_DISTRIBUTOR="ALG"/' /etc/default/grub
 sed -i 's/${GRUB_DISTRIBUTOR} Linux/${GRUB_DISTRIBUTOR}/' /etc/grub.d/10_linux
 
-rm /usr/local/bin/{alg-finalisation,livecd-sound,Installation_guide}
+# Copy skel/.config in /root
 cp -r /etc/skel/.config /root/
+
+rm /usr/local/bin/{alg-finalisation,livecd-sound,Installation_guide}
