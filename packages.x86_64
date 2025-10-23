@@ -117,6 +117,8 @@ gnome
 extra/mutter
 gnome-tweaks
 alg-gnome-settings
+gnome-browser-connector
+gnome-shell-extensions
 
 #ALG Apps
 alg-welcome
@@ -127,7 +129,6 @@ alg-hooks
 bluez-utils
 pipewire-pulse
 #pulseaudio-bluetooth
-gnome-browser-connector
 
 #Installer
 grub
