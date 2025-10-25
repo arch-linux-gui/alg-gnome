@@ -14,7 +14,7 @@ base
 broadcom-wl
 btrfs-progs
 clonezilla
-cloud-init
+#cloud-init
 cryptsetup
 darkhttpd
 ddrescue
@@ -32,7 +32,6 @@ exfatprogs
 f2fs-tools
 fatresize
 fsarchiver
-gnu-netcat
 gpart
 gpm
 gptfdisk
@@ -76,7 +75,7 @@ partimage
 ppp
 pptpclient
 reflector
-reiserfsprogs
+#reiserfsprogs
 rp-pppoe
 rsync
 sdparm
@@ -101,8 +100,9 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+lsb-release
 
-#Arch Linux GUI GNOME Core
+#ALG GNOME Core
 xorg
 gdm
 bash-completion
@@ -112,16 +112,23 @@ base-devel
 pacman-contrib
 virtualbox-guest-utils
 
-#Arch Linux GUI GNOME
+#ALG GNOME
 gnome
 extra/mutter
 gnome-tweaks
 alg-gnome-settings
+gnome-browser-connector
+gnome-shell-extensions
+
+#ALG Apps
 alg-welcome
+alg-app-store
+alg-fastfetch-config
+alg-hooks
+
 bluez-utils
 pipewire-pulse
 #pulseaudio-bluetooth
-gnome-browser-connector
 
 #Installer
 grub
@@ -135,7 +142,7 @@ alg-firefox-settings
 
 #Applications
 vlc
-neofetch
+fastfetch
 #gnome-software-packagekit-plugin
 
 #Theming
@@ -148,8 +155,7 @@ archlinux-wallpaper
 bluez
 gnome-bluetooth
 
-#Office
-libreoffice-still
+# Fonts
 ttf-ms-fonts
 noto-fonts
 noto-fonts-cjk
@@ -158,9 +164,11 @@ noto-fonts-cjk
 cups
 
 #AUR Helper
-paru
+yay
 
 #NVIDIA Drivers & Tools
 nvidia
 nvidia-utils
 nvidia-settings
+
+alg-set-once
