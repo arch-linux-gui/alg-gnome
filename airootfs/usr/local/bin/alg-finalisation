@@ -16,4 +16,7 @@ sed -i 's/${GRUB_DISTRIBUTOR} Linux/${GRUB_DISTRIBUTOR}/' /etc/grub.d/10_linux
 # Copy skel/.config in /root
 cp -r /etc/skel/.config /root/
 
+# Sync pacman databases
+pacman -Syy --noconfirm
+
 rm -f /usr/local/bin/{alg-finalisation,livecd-sound,Installation_guide}
