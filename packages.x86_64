@@ -11,7 +11,7 @@ amd-ucode
 arch-install-scripts
 b43-fwcutter
 base
-broadcom-wl
+broadcom-wl-dkms
 btrfs-progs
 clonezilla
 #cloud-init
